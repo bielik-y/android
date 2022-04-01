@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">LAB2_1</string>
+    <string name="game_title">Word Scramble</string>
+    <string name="word_title">Scrambled word</string>
+    <string name="help">Write here</string>
+    <string name="word">word</string>
+    <string name="button_text">CHECK WORD!</string>
+    <string name="theme">Theme: Parts of body</string>
+    <string name="emoji">🦵👀👌👅💪</string>
+    <string name="skip">SKIP</string>
+    <string-array name="words">
+        <item>hand</item>
+        <item>face</item>
+        <item>nail</item>
+        <item>eyes</item>
+        <item>lips</item>
+        <item>elbow</item>
+        <item>stomach</item>
+        <item>shoulder</item>
+        <item>nose</item>
+        <item>palm</item>
+        <item>tongue</item>
+        <item>leg</item>
+        <item>foot</item>
+    </string-array>
+</resources>
