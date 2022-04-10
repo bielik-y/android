@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LAB3</string>
+    <string name="title">Take a shot app!</string>
+    <string name="img_uploaded">Uploaded photo:</string>
+    <string name="img_no_photo">You don\'t have a photo yet. Click button below to take a selfie</string>
+    <string name="btn_camera">TAKE A SHOT</string>
+    <string name="btn_send">SEND PHOTO</string>
+</resources>
