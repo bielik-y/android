@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FRIEND LIST</string>
+    <string name="remove">REMOVE</string>
+    <string name="add">ADD</string>
+    <string name="clear">CLEAR</string>
+    <string name="nickname">nickname</string>
+
+    <string-array name="usernames">
+        <item>king2008</item>
+        <item>mankaaaaa_</item>
+        <item>nexuspro</item>
+        <item>bestplayer</item>
+        <item>big_boss</item>
+        <item>Mixer</item>
+        <item>qkc_</item>
+        <item>dieundead77</item>
+        <item>olga.chernikova</item>
+        <item>poofy</item>
+        <item>blacker</item>
+        <item>pro100</item>
+        <item>justnickname_</item>
+        <item>tartagler</item>
+        <item>leader78</item>
+    </string-array>
+
+</resources>
